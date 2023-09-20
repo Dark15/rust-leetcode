@@ -1,0 +1,11 @@
+[package]
+name = "rust-leetcode"
+version = "0.1.0"
+edition = "2021"
+authors = ["Starry starrycat15@gmail.com"]
+
+[dependencies]
+
+[lib]
+doctest = false
+test = true
